@@ -17,17 +17,3 @@ Here are some ideas to get you started:
  -->
 😄 My name is Kristian Ekachandra <br>
 🌱 I’m currently learning Android Development
- 
- <br>
- 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=kristianeka&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=kristianeka&show_icons=true" />
-</picture>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristianeka&layout=compact)
-
