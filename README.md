@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kristian Ekachandra</h1>
 <h3 align="center">A passionate mobile developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **mobile and web development**
+- 🌱 I’m currently learning **mobile development and machine learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
