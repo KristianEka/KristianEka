@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristian Ekachandra</h1>
-<h3 align="center">A passionate Mobile Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">Learning new things, it's my hobby</h3>
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=kristianeka&label=Profile%20views&color=0e75b6&style=flat" alt="kristianeka" />  
@@ -61,5 +61,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristianeka&layout=compact&theme=radical&exclude_repo=estimation-obesity-levels-python,Thesis-Cryptocurrency-SentimentAnalysis"" alt="kristianeka" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristianeka&layout=compact&theme=radical"" alt="kristianeka" />
 </p>
