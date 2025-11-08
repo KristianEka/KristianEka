@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristian Ekachandra</h1>
-<h3 align="center">Learning new things, it's my hobby</h3>
+<h3 align="center">AI & Automation Enthusiast | Building Workflows with N8N</h3>
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=kristianeka&label=Profile%20views&color=0e75b6&style=flat" alt="kristianeka" />  
@@ -7,11 +7,12 @@
 </p>
 
 <p align="center">
-  🌱 I’m currently learning <b>Mobile Development and Machine Learning</b> <br>
-  💬 Ask me about <b>Kotlin and Flutter</b> <br>
-  👨‍💻 Check out my work on <a href="https://github.com/KristianEka">GitHub</a> <br>
-  📫 How to reach me: <b>kristianekachandra8@gmail.com</b> <br>
-  ⚡ Fun fact: I’m constantly trying to find the best approach to create clean and understandable projects ✨
+  🤖 I'm currently exploring <b>AI Integration and Workflow Automation with N8N</b> <br>
+  💬 Ask me about <b>N8N, AI Automation, and Workflow Design</b> <br>
+  📱 Content Creator sharing AI & Automation tips on <a href="https://instagram.com/kristianekac">Instagram</a>, TikTok & YouTube <br>
+  👨‍💻 Check out my automation workflows on <a href="https://github.com/KristianEka">GitHub</a> <br>
+  📫 How to reach me: <b>kriseka45@gmail.com</b> <br>
+  ⚡ Fun fact: I automate everything I can to work smarter, not harder ⚙️
 </p>
 
 ---
@@ -21,36 +22,40 @@
   <a href="https://linkedin.com/in/kristian-ekachandra" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="kristian-ekachandra" />
   </a>
-  <a href="https://instagram.com/kristianekac" target="blank">
+  <a href="https://instagram.com/aichandre" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="kristianekac" />
+  </a>
+  <a href="https://youtube.com/@aichandre" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
+  </a>
+  <a href="https://tiktok.com/@aichandre" target="blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools 🛠️</h3>
+<h3 align="center">Tech Stack & Tools 🛠️</h3>
+
 <p align="center">
-  <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  <b>Automation & Workflow</b><br>
+  <a href="https://n8n.io" target="_blank">
+    <img src="https://github.com/bestofjs/bestofjs/blob/master/apps/web/public/logos/n8n.svg" alt="n8n" width="40" height="40"/> 
   </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
+</p>
+
+---
+
+<h3 align="center">What I'm Building 🚀</h3>
+<p align="center">
+  ✅ Automated workflows for business processes<br>
+  ✅ AI-powered content creation systems<br>
+  ✅ Integration solutions connecting multiple platforms<br>
+  ✅ Educational content about AI & automation<br>
+  ✅ Custom N8N templates and workflows
 </p>
 
 ---
@@ -61,5 +66,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristianeka&layout=compact&theme=radical"" alt="kristianeka" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristianeka&layout=compact&theme=radical" alt="kristianeka" />
+</p>
+
+---
+
+<p align="center">
+  <i>💡 "Automation is not about replacing humans, it's about empowering them to do more meaningful work."</i>
 </p>
