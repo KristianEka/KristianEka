@@ -2,7 +2,7 @@
 
 # Hi, I'm Kristian Ekachandra 👋
 
-### AI Solutions Builder · Content Creator
+### AI Solutions Builder · Creatorpreneur
 
 </div>
 
